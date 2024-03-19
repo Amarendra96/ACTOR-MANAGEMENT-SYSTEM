@@ -1,7 +1,7 @@
 # ACTOR-MANAGEMENT-SYSTEM
 <ol>
   <li>Actor Management System with Spring Boot REST API.</li>
-  <li>This project implements an Actor Managemeny System using Spring Boot to provide RESTful API endpoints.</li>
+  <li>This project implements an Actor Management System using Spring Boot to provide RESTful API endpoints.</li>
   <li>It allows user to perform CRUD operations on actors, manage their details, and interact with the system programmatically.</li>
 </ol>
 <h2>Features:</h2>
